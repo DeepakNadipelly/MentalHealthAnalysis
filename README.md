@@ -1,4 +1,4 @@
-# MentalHealthAnalysis
+# Mental Health Analysis
 
 # Introduction
 
