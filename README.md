@@ -5,7 +5,7 @@
 Mental health is very critical to the well being of a person, but is not given enough importance in today’s day and age. Mental health disorders remain widely underreported. According to the statistics, 1 in 10 people suffer from Mental Health disorders globally. People usually do not talk about their mental health with their peers. Social media is one platform where people express their views freely. We used Natural language processing (NLP) techniques to infer people's mental states from what they write on social media sites like Reddit. These conclusions can then be utilized to establish online pathways that link users to health information and help, as well as individualized actions. However, there's been relatively little work done in distinguishing different mental health diseases and assessing severity.
 In this project, We will use textual data from Reddit to categorize posts not just as a binary classification problem (Casual Conversations vs conversations relating to mental health), but also to understand the type of ailment and its severity, leading to the creation of a distinct label for the risk of suicide.
 
-Dataset:
+Dataset Description:
 
 We have created a dataset using Reddit's PRAW API.The dataset contains different posts from specific subreddits:
 depression
