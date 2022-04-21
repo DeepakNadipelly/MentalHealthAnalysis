@@ -16,7 +16,7 @@ SuicideWatch
 CasualConversation.
 We have used the subreddits as labels for the posts. Each subreddit is designed to represent a specific ailment, except r/mentalhealth which contains general discussions concerning mental health. The other exception is r/CasualConversation, which we have included to provide a variety of data to the models. This is crucial for generalizing data that hasn't been seen before.
 Some of the columns of interest are:
-Title: Title of the post
+Title: Title of the post.
 Body: The content of the Reddit post
 Score: It is the number of upvotes minus the number of downvotes
 Upvote Ratio: It is the number of upvotes divided by total number of votes
